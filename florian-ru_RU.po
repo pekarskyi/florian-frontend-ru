@@ -2,20 +2,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Florian\n"
 "POT-Creation-Date: 2019-04-11 12:43+0200\n"
-"PO-Revision-Date: 2021-07-03 18:53+0300\n"
-"Language-Team: MagniumThemes <support@magniumthemes.com>\n"
+"PO-Revision-Date: 2022-10-29 18:14+0300\n"
+"Last-Translator: Николай Пекарский <dizer7@gmail.com>\n"
+"Language-Team: Mykola Pekarskyi <dizer7@gmail.com>\n"
+"Language: ru_RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.1.1\n"
 "X-Poedit-KeywordsList: _e;__;esc_html_e;esc_html__;_nx;esc_attr__;"
 "esc_attr_e\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"Last-Translator: Николай Пекарский <dizer7@gmail.com>\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
-"Language: ru_RU\n"
 "X-Poedit-SearchPath-0: ..\n"
 
 #: ../404.php:14
@@ -64,29 +64,24 @@ msgid "Post format"
 msgstr "Формат записи"
 
 #: ../archive.php:125
-#, fuzzy
 msgid "Aside"
-msgstr "В стороне"
+msgstr ""
 
 #: ../archive.php:130
-#, fuzzy
 msgid "Images"
-msgstr "Изображения"
+msgstr ""
 
 #: ../archive.php:135
-#, fuzzy
 msgid "Videos"
-msgstr "Видео"
+msgstr ""
 
 #: ../archive.php:140
-#, fuzzy
 msgid "Quotes"
-msgstr "Цитаты"
+msgstr ""
 
 #: ../archive.php:145
-#, fuzzy
 msgid "Links"
-msgstr "Ссылки"
+msgstr ""
 
 #: ../archive.php:149
 msgid "Posts"
@@ -336,493 +331,409 @@ msgid "Other"
 msgstr "Другое"
 
 #: ../inc/class-tgm-plugin-activation.php:334
-#, fuzzy
 msgid "Install Required Plugins"
-msgstr "Установите обязательные плагины"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:335
 #: ../inc/theme-dashboard/inc/theme-welcome.php:51
-#, fuzzy
 msgid "Install Plugins"
-msgstr "Установить плагины"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:337
-#, fuzzy, php-format
+#, php-format
 msgid "Installing Plugin: %s"
-msgstr "Установить плагин: %s"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:339
-#, fuzzy, php-format
+#, php-format
 msgid "Updating Plugin: %s"
-msgstr "Обновить плагин: %s"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:340
-#, fuzzy
 msgid "Something went wrong with the plugin API."
-msgstr "Что-то пошло не так с плагином API."
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:392
-#, fuzzy
 msgid "Return to Required Plugins Installer"
-msgstr "Вернуться к Установке плагинов"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:393
 #: ../inc/class-tgm-plugin-activation.php:912
 #: ../inc/class-tgm-plugin-activation.php:2618
 #: ../inc/class-tgm-plugin-activation.php:3665
-#, fuzzy
 msgid "Return to the Dashboard"
-msgstr "Вернуться в Консоль"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:394
 #: ../inc/class-tgm-plugin-activation.php:3244
-#, fuzzy
 msgid "Plugin activated successfully."
-msgstr "Плагин авктивирован успешно."
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:395
-#, fuzzy
 msgid "The following plugin was activated successfully:"
-msgstr "Следующий плагин был успешно активирован:"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:397
-#, fuzzy, php-format
+#, php-format
 msgid "No action taken. Plugin %1$s was already active."
-msgstr "Действие не произведено. Плагин %1$s уже активирован."
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:399
-#, fuzzy, php-format
+#, php-format
 msgid ""
 "Plugin not activated. A higher version of %s is needed for this theme. "
 "Please update the plugin."
 msgstr ""
-"Плагин не активирован. Требуется более новая версия плагина %s для вашей "
-"темы. Обновите его."
 
 #: ../inc/class-tgm-plugin-activation.php:401
-#, fuzzy, php-format
+#, php-format
 msgid "All plugins installed and activated successfully. %1$s"
-msgstr "Все плагины установлены и успешно активированы. %1$s"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:402
 msgid "Dismiss this notice"
 msgstr "Закрыть"
 
 #: ../inc/class-tgm-plugin-activation.php:403
-#, fuzzy
 msgid ""
 "There are one or more required or recommended plugins to install, update or "
 "activate."
 msgstr ""
-"Есть один или несколько необходимых или рекомендуемых плагинов для "
-"установки, обновления или активации."
 
 #: ../inc/class-tgm-plugin-activation.php:404
-#, fuzzy
 msgid "Please contact the administrator of this site for help."
-msgstr "Обратитесь за помощью к администратору сайта."
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:607
-#, fuzzy
 msgid "This plugin needs to be updated to be compatible with your theme."
-msgstr "Необходимо обновить этот плагин для корректной работы темы."
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:608
-#, fuzzy
 msgid "Update Required"
-msgstr "Требуется обновить"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:1019
-#, fuzzy
 msgid ""
 "The remote plugin package does not contain a folder with the desired slug "
 "and renaming did not work."
 msgstr ""
-"Установщик плагина не содержит папку с нужной ссылкой и переименование не "
-"работает."
 
 #: ../inc/class-tgm-plugin-activation.php:1019
 #: ../inc/class-tgm-plugin-activation.php:1022
-#, fuzzy
 msgid ""
 "Please contact the plugin provider and ask them to package their plugin "
 "according to the WordPress guidelines."
 msgstr ""
-"Пожалуйста, обратитесь к разработчику плагинов, и попросите его упаковать "
-"свой плагин в соответствии с правилами WordPress."
 
 #: ../inc/class-tgm-plugin-activation.php:1022
-#, fuzzy
 msgid ""
 "The remote plugin package consists of more than one file, but the files are "
 "not packaged in a folder."
 msgstr ""
-"Удаленный пакет плагина состоит из более чем одного файла, но файлы не "
-"упакованы в папке."
 
 #: ../inc/class-tgm-plugin-activation.php:2067
-#, fuzzy, php-format
+#, php-format
 msgid "TGMPA v%s"
-msgstr "Русская локализация от inwebpress.ru. TGMPA v%s"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2358
-#, fuzzy
 msgid "Required"
-msgstr "Обязательно"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2361
-#, fuzzy
 msgid "Recommended"
-msgstr "Рекомендуется"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2377
-#, fuzzy
 msgid "WordPress Repository"
-msgstr "Репозиторий WordPress"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2380
-#, fuzzy
 msgid "External Source"
-msgstr "Внешний ресурс"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2383
-#, fuzzy
 msgid "Pre-Packaged"
-msgstr "Архив"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2400
-#, fuzzy
 msgid "Not Installed"
-msgstr "Не установлен"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2404
-#, fuzzy
 msgid "Installed But Not Activated"
-msgstr "Установлен, но не активирован"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2406
-#, fuzzy
 msgid "Active"
-msgstr "Активно"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2412
-#, fuzzy
 msgid "Required Update not Available"
-msgstr "Обновление не доступно"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2415
-#, fuzzy
 msgid "Requires Update"
-msgstr "Требуемое обновление"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2418
-#, fuzzy
 msgid "Update recommended"
-msgstr "Рекомендуемые обновления"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2473
-#, fuzzy, php-format
+#, php-format
 msgid "All <span class=\"count\">(%s)</span>"
-msgstr "Все <span class=\"count\">(%s)</span>"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2575
-#, fuzzy
 msgid "Installed version:"
-msgstr "Установленная версия:"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2583
-#, fuzzy
 msgid "Minimum required version:"
-msgstr "Минимально необходимая версия:"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2595
-#, fuzzy
 msgid "Available version:"
-msgstr "Доступна версия:"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2618
-#, fuzzy
 msgid "No plugins to install, update or activate."
-msgstr "Нет плагинов для установки, обновления или активации."
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2632
-#, fuzzy
 msgid "Plugin"
-msgstr "Плагин"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2633
-#, fuzzy
 msgid "Source"
-msgstr "Источник"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2634
-#, fuzzy
 msgid "Type"
-msgstr "Тип"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2638
-#, fuzzy
 msgid "Version"
-msgstr "Версия"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2639
-#, fuzzy
 msgid "Status"
-msgstr "Статус:"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2688
-#, fuzzy, php-format
+#, php-format
 msgid "Install %2$s"
-msgstr "Установить %2$s"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2693
-#, fuzzy, php-format
+#, php-format
 msgid "Update %2$s"
-msgstr "Обновить %2$s"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2699
-#, fuzzy, php-format
+#, php-format
 msgid "Activate %2$s"
-msgstr "Активация %2$s"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2769
-#, fuzzy
 msgid "Upgrade message from the plugin author:"
-msgstr "Обновить сообщение от автора плагина:"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2802
-#, fuzzy
 msgid "Install"
-msgstr "Установить"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2808
-#, fuzzy
 msgid "Update"
-msgstr "Обновить"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2811
-#, fuzzy
 msgid "Activate"
-msgstr "Активировать"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2842
-#, fuzzy
 msgid "No plugins were selected to be installed. No action taken."
-msgstr "Не были выбраны плагины для установки."
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2844
-#, fuzzy
 msgid "No plugins were selected to be updated. No action taken."
-msgstr "Не были выбраны плагины для обновления."
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2885
-#, fuzzy
 msgid "No plugins are available to be installed at this time."
-msgstr "На данный момент нет плагинов, доступных к установке."
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2887
-#, fuzzy
 msgid "No plugins are available to be updated at this time."
-msgstr "Нет доступных плагинов для обновления."
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:2993
-#, fuzzy
 msgid "No plugins were selected to be activated. No action taken."
-msgstr "Не было выбрано плагинов для активации. Никаких действий не выполнено."
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:3019
-#, fuzzy
 msgid "No plugins are available to be activated at this time."
-msgstr "В данный момент нет плагинов, доступных для активации."
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:3243
-#, fuzzy
 msgid "Plugin activation failed."
-msgstr "Не удалось активировать плагин."
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:3583
-#, fuzzy, php-format
+#, php-format
 msgid "Updating Plugin %1$s (%2$d/%3$d)"
-msgstr "Обновить плагин %1$s (%2$d/%3$d)"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:3586
-#, fuzzy, php-format
+#, php-format
 msgid "An error occurred while installing %1$s: %2$s."
-msgstr "Произошла ошибка при установке %1$s: %2$s."
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:3588
-#, fuzzy, php-format
+#, php-format
 msgid "The installation of %1$s failed."
-msgstr "Установка %1$s не удалась."
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:3592
-#, fuzzy
 msgid ""
 "The installation and activation process is starting. This process may take a "
 "while on some hosts, so please be patient."
 msgstr ""
-"Запущена установка и активация. Этот процесс может занять некоторое время, "
-"поэтому, пожалуйста, будьте терпеливы."
 
 #: ../inc/class-tgm-plugin-activation.php:3594
-#, fuzzy, php-format
+#, php-format
 msgid "%1$s installed and activated successfully."
-msgstr "%1$s установлен и успешно активирован."
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:3595
-#, fuzzy
 msgid "All installations and activations have been completed."
-msgstr "Все установки и активация были завершены."
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:3597
-#, fuzzy, php-format
+#, php-format
 msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
-msgstr "Устанавливаю и aктивирую плагин %1$s (%2$d/%3$d)"
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:3600
-#, fuzzy
 msgid ""
 "The installation process is starting. This process may take a while on some "
 "hosts, so please be patient."
 msgstr ""
-"Процесс установки начался. Этот процесс может занять некоторое время, "
-"поэтому, пожалуйста, будьте терпеливы."
 
 #: ../inc/class-tgm-plugin-activation.php:3602
-#, fuzzy, php-format
+#, php-format
 msgid "%1$s installed successfully."
-msgstr "%1$s installed successfully."
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:3603
-#, fuzzy
 msgid "All installations have been completed."
-msgstr "Все плагины установлены успешно."
+msgstr ""
 
 #: ../inc/class-tgm-plugin-activation.php:3605
-#, fuzzy, php-format
+#, php-format
 msgid "Installing Plugin %1$s (%2$d/%3$d)"
-msgstr "Установка плагина %1$s (%2$d/%3$d)"
+msgstr ""
 
 #: ../inc/modules/category-image/category-image.php:32
 #: ../inc/modules/category-image/category-image.php:61
-#, fuzzy
 msgid "Title background image"
-msgstr "Фоновое изображение заголовка"
+msgstr ""
 
 #: ../inc/modules/category-image/category-image.php:36
 #: ../inc/modules/category-image/category-image.php:72
-#, fuzzy
 msgid "Add Image"
-msgstr "Добавить изображение"
+msgstr ""
 
 #: ../inc/modules/category-image/category-image.php:37
 #: ../inc/modules/category-image/category-image.php:73
-#, fuzzy
 msgid "Remove Image"
-msgstr "Удалить изображение"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:80
-#, fuzzy, php-format
+#, php-format
 msgid "%s (Invalid)"
-msgstr "%s (Ошибка)"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:84
-#, fuzzy, php-format
+#, php-format
 msgid "%s (Pending)"
-msgstr "%s (в ожидании)"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:112
-#, fuzzy
 msgid "Move up"
-msgstr "Переместить выше"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:125
-#, fuzzy
 msgid "Move down"
-msgstr "Переместить ниже"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:127
 #: ../inc/modules/mega-menu/edit_custom_walker.php:129
-#, fuzzy
 msgid "Edit Menu Item"
-msgstr "Редактировать пункт меню"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:138
-#, fuzzy
 msgid "URL"
-msgstr "Ссылка:"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:145
-#, fuzzy
 msgid "Navigation Label"
-msgstr "Название меню"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:151
-#, fuzzy
 msgid "Title Attribute"
-msgstr "Атрибут заголовка"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:157
-#, fuzzy
 msgid "Badge title"
-msgstr "Название значка"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:163
-#, fuzzy
 msgid "Badge color (#hex)"
-msgstr "Цвет значка (#hex)"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:170
-#, fuzzy
 msgid "Open link in a new window/tab"
-msgstr "Открывать ссылку в новом окне или вкладке"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:175
-#, fuzzy
 msgid "CSS Classes (optional)"
-msgstr "Стили CSS (по желанию)"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:181
-#, fuzzy
 msgid "Link Relationship (XFN)"
-msgstr "Отношение ссылки (XFN)"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:187
-#, fuzzy
 msgid "Description"
-msgstr "С описанием"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:189
-#, fuzzy
 msgid ""
 "The description will be displayed in the menu if the current theme supports "
 "it."
-msgstr "Описание будет отображаться в меню, если тема поддерживает это."
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:198
-#, fuzzy
 msgid "Megamenu columns"
-msgstr "Мегаменю столбцы"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:212
-#, fuzzy
 msgid "Show this submenu fullwidth"
-msgstr "Показать этот поддменю наполной ширине"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:214
-#, fuzzy
 msgid "No"
-msgstr "Нет"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:215
-#, fuzzy
 msgid "Yes"
-msgstr "Да"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:222
-#, fuzzy
 msgid "Sublevels dropdown menus position"
-msgstr "Выпадающее меню"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:224
 #: ../inc/modules/mega-menu/edit_custom_walker.php:275
@@ -831,9 +742,8 @@ msgstr "Выпадающее меню"
 #: ../inc/theme-options.php:1504 ../inc/theme-options.php:1519
 #: ../inc/theme-options.php:1534 ../inc/theme-options.php:1549
 #: ../inc/theme-options.php:1564 ../inc/theme-options.php:1579
-#, fuzzy
 msgid "Right"
-msgstr "Право"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:225
 #: ../inc/modules/mega-menu/edit_custom_walker.php:274
@@ -842,154 +752,126 @@ msgstr "Право"
 #: ../inc/theme-options.php:1503 ../inc/theme-options.php:1518
 #: ../inc/theme-options.php:1533 ../inc/theme-options.php:1548
 #: ../inc/theme-options.php:1563 ../inc/theme-options.php:1578
-#, fuzzy
 msgid "Left"
-msgstr "Лево"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:231
-#, fuzzy
 msgid "Show sidebar with widgets inside this submenu"
-msgstr "Показать боковую панель с виджетами внутри этого подменю"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:234
-#, fuzzy
 msgid "Do not add sidebar"
-msgstr "Не добавляйте боковую панель"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:252
-#, fuzzy
 msgid "Background image URL"
-msgstr "Ссылка на фоновое изображение"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:254
-#, fuzzy
 msgid "Select image"
-msgstr "Выбрать изображение"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:254
-#, fuzzy
 msgid "Select submenu background image"
-msgstr "Выберите фоновое изображение подменю"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:255
 #: ../inc/modules/mega-menu/edit_custom_walker.php:914
-#, fuzzy
 msgid "Remove"
-msgstr "Удалить"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:260
-#, fuzzy
 msgid "Background repeat"
-msgstr "Повторять фон"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:262
-#, fuzzy
 msgid "No repeat"
-msgstr "Без повторения"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:263
-#, fuzzy
 msgid "Repeat"
-msgstr "Повторить"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:264
-#, fuzzy
 msgid "Repeat X"
-msgstr "Повторять по горизонтали"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:265
-#, fuzzy
 msgid "Repeat Y"
-msgstr "Повторять по вертикали"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:271
-#, fuzzy
 msgid "Background position X"
-msgstr "Положение фона по горизонтали"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:273
 #: ../inc/modules/mega-menu/edit_custom_walker.php:283
 #: ../inc/theme-options.php:276 ../inc/theme-options.php:371
 #: ../inc/theme-options.php:397
-#, fuzzy
 msgid "Center"
-msgstr "По центру"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:281
-#, fuzzy
 msgid "Background position Y"
-msgstr "Положение фона по вертикали"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:284
-#, fuzzy
 msgid "Top"
-msgstr "Сверху"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:285
-#, fuzzy
 msgid "Bottom"
-msgstr "Вниз"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:292
-#, fuzzy
 msgid "Menu item Icon"
-msgstr "Иконка меню"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:295
-#, fuzzy
 msgid "Current icon"
-msgstr "Цвет текущей иконки"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:891
-#, fuzzy
 msgid "Current icon:"
-msgstr "Цвет текущей иконки"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:901
-#, fuzzy, php-format
+#, php-format
 msgid "Original: %s"
-msgstr "Исходный: %s"
+msgstr ""
 
 #: ../inc/modules/mega-menu/edit_custom_walker.php:915
-#, fuzzy
 msgid "Cancel"
-msgstr "Отмена"
+msgstr ""
 
 #: ../inc/theme-dashboard/class-theme-dashboard.php:29
-#, fuzzy
 msgid "Florian WordPress Theme Dashboard"
-msgstr "Приборная панель темы Florian WordPress"
+msgstr ""
 
 #: ../inc/theme-dashboard/inc/header.php:13
-#, fuzzy, php-format
+#, php-format
 msgid "Welcome to %1$s - Version %2$s"
-msgstr "Добро пожаловать в %1$s - Версия %2$s"
+msgstr ""
 
 #: ../inc/theme-dashboard/inc/theme-activation.php:33
 msgid "Theme Activation"
 msgstr "Активация темы"
 
 #: ../inc/theme-dashboard/inc/theme-activation.php:45
-#, fuzzy
 msgid ""
 "Please activate your theme to get themes updates notifications, use theme "
 "options, import theme demos and get access to premium dedicated support."
 msgstr ""
-"Пожалуйста, активируйте вашу тему, чтобы получать уведомления об обновлениях "
-"тем, использовать опции темы, импортировать демо-версии тем и получить "
-"доступ к специализированной поддержке премиум-класса."
 
 #: ../inc/theme-dashboard/inc/theme-activation.php:46
-#, fuzzy
 msgid "Activate theme >"
-msgstr "Активировать тему"
+msgstr ""
 
 #: ../inc/theme-dashboard/inc/theme-activation.php:58
 #: ../inc/theme-dashboard/inc/theme-system.php:69
 #: ../inc/theme-dashboard/inc/theme-welcome.php:20
-#, fuzzy
 msgid "Getting started"
-msgstr "Приступая к работе"
+msgstr ""
 
 #: ../inc/theme-dashboard/inc/theme-activation.php:59
 #: ../inc/theme-dashboard/inc/theme-system.php:70
@@ -1010,34 +892,28 @@ msgid "System information"
 msgstr "О системе"
 
 #: ../inc/theme-dashboard/inc/theme-activation.php:65
-#, fuzzy
 msgid ""
 "Your theme activated. Thank you! Now you can use all theme features and have "
 "access to dedicated premium support."
 msgstr ""
-"Ваша тема активирована. Спасибо! Теперь вы можете использовать все "
-"возможности темы и получить доступ к специализированной премиум-поддержке."
 
 #: ../inc/theme-dashboard/inc/theme-activation.php:70
 msgid "Enter your email"
 msgstr "Введите ваш email"
 
 #: ../inc/theme-dashboard/inc/theme-activation.php:70
-#, fuzzy
 msgid "Enter your theme purchase code"
-msgstr "Введите код покупки темы"
+msgstr ""
 
 #: ../inc/theme-dashboard/inc/theme-activation.php:71
-#, fuzzy
 msgid "How to find your theme purchase code?"
-msgstr "Как найти код покупки темы?"
+msgstr ""
 
 #: ../inc/theme-dashboard/inc/theme-activation.php:72
 msgid "Register theme"
 msgstr "Регистрация темы"
 
 #: ../inc/theme-dashboard/inc/theme-activation.php:73
-#, fuzzy
 msgid ""
 "By using this form you confirm that your purchase code, email (if you "
 "provided it) and site url will be saved on our servers for theme license "
@@ -1045,37 +921,25 @@ msgid ""
 "receive important theme updates notifications and news (you can unsubscribe "
 "at any time)."
 msgstr ""
-"Используя эту форму, вы подтверждаете, что ваш код покупки, email (если вы "
-"его указали) и url сайта будут сохранены на наших серверах для проверки "
-"лицензии темы. Если вы указали адрес электронной почты (необязательно), вы "
-"будете получать уведомления о важных обновлениях темы и новости (вы можете "
-"отказаться от подписки в любое время)."
 
 #: ../inc/theme-dashboard/inc/theme-activation.php:131
-#, fuzzy
 msgid "Please fill outpurchase code field."
-msgstr "Пожалуйста, заполните поле \"Код покупки\"."
+msgstr ""
 
 #: ../inc/theme-dashboard/inc/theme-activation.php:135
-#, fuzzy
 msgid "Registering theme..."
-msgstr "Регистрация темы..."
+msgstr ""
 
 #: ../inc/theme-dashboard/inc/theme-activation.php:154
 #: ../inc/theme-dashboard/inc/theme-activation.php:161
-#, fuzzy
 msgid "Theme registered succesfully!"
-msgstr "Тема зарегистрирована успешно!"
+msgstr ""
 
 #: ../inc/theme-dashboard/inc/theme-activation.php:156
-#, fuzzy
 msgid "Theme registered succesfully! Now you can use all theme features."
 msgstr ""
-"Тема зарегистрирована успешно! Теперь вы можете использовать все возможности "
-"темы."
 
 #: ../inc/theme-dashboard/inc/theme-activation.php:163
-#, fuzzy
 msgid ""
 "Theme registered succesfully, but we see that theme purchase code was "
 "already activated before. Please note that by ThemeForest regular license "
@@ -1086,192 +950,135 @@ msgid ""
 "language, otherwise theme on your sites can be automatically blocked in next "
 "check."
 msgstr ""
-"Тема зарегистрирована успешно, но мы видим, что код покупки темы уже был "
-"активирован ранее. Обратите внимание, что по правилам регулярной лицензии "
-"ThemeForest вы можете использовать одну лицензию темы только на одной "
-"установке WordPress с одним языком (вы можете использовать тему в другой раз "
-"только на тестовых/разработочных средах). Если вы используете тему на "
-"нескольких сайтах или многоязычном сайте, убедитесь, что вы приобрели "
-"отдельную регулярную лицензию для каждого сайта и языка, иначе тема на ваших "
-"сайтах может быть автоматически заблокирована при следующей проверке."
 
 #: ../inc/theme-dashboard/inc/theme-activation.php:168
-#, fuzzy
 msgid ""
 "Purchase code is not valid. Your purchase code should look like this: "
 "36434418-e837-48c5-8737-f20d52b36a1f"
 msgstr ""
-"Код покупки недействителен. Ваш код покупки должен выглядеть следующим "
-"образом: 36434418-e837-48c5-8737-f20d52b36a1f"
 
 #: ../inc/theme-dashboard/inc/theme-activation.php:175
-#, fuzzy
 msgid ""
 "<span class='error'>Oops! It looks like your hosting blocks external "
 "connections to our server,<br/>please <a href='http://support.magniumthemes."
 "com/' target='_blank'>contact our support team</a> to get theme activated "
 "manually.</span>"
 msgstr ""
-"<span class='error'>Упс! Похоже, что ваш хостинг блокирует внешние "
-"соединения с нашим сервером,<br/>пожалуйста, <a href='http://support."
-"magniumthemes.com/' target='_blank'>свяжитесь с нашей службой поддержки</a>, "
-"чтобы активировать тему вручную.</span>"
 
 #: ../inc/theme-dashboard/inc/theme-system.php:22
 msgid "System Information"
 msgstr "Информация о системе"
 
 #: ../inc/theme-dashboard/inc/theme-system.php:61
-#, fuzzy
 msgid "Plugin not installed"
-msgstr "Плагин установлен."
+msgstr ""
 
 #: ../inc/theme-dashboard/inc/theme-welcome.php:33
-#, fuzzy
 msgid "First of all - Activate your theme"
-msgstr "Прежде всего - активируйте вашу тему"
+msgstr ""
 
 #: ../inc/theme-dashboard/inc/theme-welcome.php:36
-#, fuzzy
 msgid ""
 "Register your purchase to get themes updates notifications, import theme "
 "demos and get access to premium dedicated support."
 msgstr ""
-"Зарегистрируйте свою покупку, чтобы получать уведомления об обновлениях тем, "
-"импортировать демо-версии тем и получить доступ к специализированной "
-"поддержке премиум-класса."
 
 #: ../inc/theme-dashboard/inc/theme-welcome.php:39
-#, fuzzy
 msgid "Activate Theme"
-msgstr "Активировать тему"
+msgstr ""
 
 #: ../inc/theme-dashboard/inc/theme-welcome.php:42
-#, fuzzy
 msgid "Step 1 - Install Required Plugins"
-msgstr "Шаг 1 - Установите необходимые плагины"
+msgstr ""
 
 #: ../inc/theme-dashboard/inc/theme-welcome.php:45
-#, fuzzy
 msgid ""
 "Our theme has some required and optional plugins to function properly. "
 "Please install theme required plugins."
 msgstr ""
-"Наша тема имеет некоторые необходимые и дополнительные плагины для "
-"правильного функционирования. Пожалуйста, установите необходимые плагины."
 
 #: ../inc/theme-dashboard/inc/theme-welcome.php:49
-#, fuzzy
 msgid "Plugins installed"
-msgstr "Все плагины установленны и успешно активированны. %1$s"
+msgstr ""
 
 #: ../inc/theme-dashboard/inc/theme-welcome.php:53
-#, fuzzy
 msgid "Step 2 - Import Demo Data (Optional)"
-msgstr "Шаг 2 - Импортируйте демо данные (необязательно)"
+msgstr ""
 
 #: ../inc/theme-dashboard/inc/theme-welcome.php:54
-#, fuzzy
 msgid ""
 "We prepared several demos for you to start with. Demo contain sample "
 "content, widgets, sliders and theme settings. You can import it with 1 click "
 "in our famouse 1-Click Demo Data installer."
 msgstr ""
-"Мы подготовили для вас несколько демо-версий для начала. Демонстрации "
-"содержат образцы контента, виджетов, слайдеров и настроек темы. Вы можете "
-"импортировать их одним щелчком мыши с помощью нашей известной программы "
-"установки данных демо-версий 1-Click."
 
 #: ../inc/theme-dashboard/inc/theme-welcome.php:56
 msgid "Import Demo Data"
 msgstr "Импорт демо-данных"
 
 #: ../inc/theme-dashboard/inc/theme-welcome.php:57
-#, fuzzy
 msgid "Got questions? We're here to help you!"
-msgstr "Есть вопросы? Мы готовы вам помочь!"
+msgstr ""
 
 #: ../inc/theme-dashboard/inc/theme-welcome.php:58
-#, fuzzy
 msgid ""
 "Check our Help Center articles. If you can't find solution for your problem "
 "feel free to contact your dedicated support manager."
 msgstr ""
-"Ознакомьтесь со статьями нашего Справочного центра. Если вы не можете найти "
-"решение своей проблемы, свяжитесь с менеджером службы поддержки."
 
 #: ../inc/theme-dashboard/inc/theme-welcome.php:60
-#, fuzzy
 msgid "Visit Help Center"
-msgstr "Посетите Центр помощи"
+msgstr ""
 
 #: ../inc/theme-dashboard/inc/theme-welcome.php:64
-#, fuzzy
 msgid "Customize Your Site"
-msgstr "Настройка вашего сайта"
+msgstr ""
 
 #: ../inc/theme-dashboard/inc/theme-welcome.php:65
-#, fuzzy
 msgid ""
 "You can easy manage all theme options in WordPress Customizer, that allows "
 "you to preview any changes that you make on the fly."
 msgstr ""
-"Вы можете легко управлять всеми опциями темы в WordPress Customizer, который "
-"позволяет предварительно просматривать любые изменения, которые вы делаете "
-"на лету."
 
 #: ../inc/theme-dashboard/inc/theme-welcome.php:67
-#, fuzzy
 msgid "Manage Theme Options"
-msgstr "Управление параметрами темы"
+msgstr ""
 
 #: ../inc/theme-dashboard/inc/theme-welcome.php:69
-#, fuzzy
 msgid "Read Theme Documentation"
-msgstr "Читать документацию темы"
+msgstr ""
 
 #: ../inc/theme-dashboard/inc/theme-welcome.php:70
-#, fuzzy
 msgid ""
 "Please read our detailed step by step theme documentation first to "
 "understand how to use the theme and all its features."
 msgstr ""
-"Пожалуйста, сначала прочитайте нашу подробную пошаговую документацию по "
-"теме, чтобы понять, как использовать тему и все ее возможности."
 
 #: ../inc/theme-dashboard/inc/theme-welcome.php:72
-#, fuzzy
 msgid "Read Documentation"
-msgstr "Прочитайте документацию"
+msgstr ""
 
 #: ../inc/theme-dashboard/inc/theme-welcome.php:74
-#, fuzzy
 msgid "Speed Up, Optimize and Secure your website"
-msgstr "Ускорение, оптимизация и безопасность вашего сайта"
+msgstr ""
 
 #: ../inc/theme-dashboard/inc/theme-welcome.php:75
-#, fuzzy
 msgid ""
 "Get maximum from your website with our professional Premium \"All in one\" "
 "WordPress Security, Speed and SEO optimization services."
 msgstr ""
-"Получите максимум от вашего сайта с помощью наших профессиональных услуг по "
-"безопасности, скорости и SEO-оптимизации WordPress класса Premium \"Все в "
-"одном\"."
 
 #: ../inc/theme-dashboard/inc/theme-welcome.php:77
 msgid "Learn more"
 msgstr "Узнать больше"
 
 #: ../inc/theme-functions.php:16
-#, fuzzy
 msgid "Florian Custom Metaboxes"
-msgstr "Florian Custom Metaboxes"
+msgstr ""
 
 #: ../inc/theme-functions.php:23
-#, fuzzy
 msgid "Florian Theme Settings (Kirki Toolkit)"
-msgstr "Настройки темы Florian (набор инструментов Kirki)"
+msgstr ""
 
 #: ../inc/theme-functions.php:29
 msgid "Florian Theme Addons"
@@ -1318,9 +1125,8 @@ msgid "Follow us"
 msgstr "Читайте нас"
 
 #: ../inc/theme-functions.php:705
-#, fuzzy
 msgid "Handpicked posts"
-msgstr "Отобранные посты"
+msgstr ""
 
 #: ../inc/theme-functions.php:881
 msgid "Featured Categories"
@@ -1339,28 +1145,24 @@ msgid "Logo"
 msgstr "Логотип"
 
 #: ../inc/theme-options.php:53
-#, fuzzy
 msgid "Site Title and Favicon"
-msgstr "Название сайта и фавикон"
+msgstr ""
 
 #: ../inc/theme-options.php:63
-#, fuzzy
 msgid "Logo for Transparent Header (Light logo)"
-msgstr "Логотип для прозрачного заголовка (световой логотип)"
+msgstr ""
 
 #: ../inc/theme-options.php:84
 msgid "Theme Settings"
 msgstr "Настройки темы"
 
 #: ../inc/theme-options.php:85
-#, fuzzy
 msgid "Manage theme settings"
-msgstr "Управление настройками темы"
+msgstr ""
 
 #: ../inc/theme-options.php:92
-#, fuzzy
 msgid "Please register theme first"
-msgstr "Пожалуйста, сначала зарегистрируйте тему"
+msgstr ""
 
 #: ../inc/theme-options.php:111
 msgid "General"
@@ -1371,14 +1173,12 @@ msgid "CSS3 animations"
 msgstr "Анимация CSS3"
 
 #: ../inc/theme-options.php:121
-#, fuzzy
 msgid "Enable colors and background colors fade effects."
-msgstr "Включение эффектов затухания цветов и фоновых цветов."
+msgstr ""
 
 #: ../inc/theme-options.php:130
-#, fuzzy
 msgid "Animate posts listing on scroll"
-msgstr "Анимация списка постов при прокрутке"
+msgstr ""
 
 #: ../inc/theme-options.php:136 ../inc/theme-options.php:198
 #: ../inc/theme-options.php:554 ../inc/theme-options.php:569
@@ -1391,93 +1191,78 @@ msgid "Disable"
 msgstr "Отключить"
 
 #: ../inc/theme-options.php:137
-#, fuzzy
 msgid "Fade up"
-msgstr "Исчезновение вверх"
+msgstr ""
 
 #: ../inc/theme-options.php:138
-#, fuzzy
 msgid "Fade down"
-msgstr "Затемнение внизу"
+msgstr ""
 
 #: ../inc/theme-options.php:139
 msgid "Zoom In"
 msgstr "Увеличение"
 
 #: ../inc/theme-options.php:141
-#, fuzzy
 msgid ""
 "Animate on scroll feature for post blocks in listings. Does not available "
 "with Masonry layout."
 msgstr ""
-"Функция анимации при прокрутке для блоков постов в объявлениях. Недоступно "
-"при использовании макета Masonry."
 
 #: ../inc/theme-options.php:147
-#, fuzzy
 msgid "Images on hover animations"
-msgstr "Анимация изображений при наведении"
+msgstr ""
 
 #: ../inc/theme-options.php:148
-#, fuzzy
 msgid "Enable mouse hover effects on featured images."
-msgstr "Включите эффекты наведения мыши на главные изображения."
+msgstr ""
 
 #: ../inc/theme-options.php:157
 msgid "Mega Menu"
 msgstr "Мега меню"
 
 #: ../inc/theme-options.php:158
-#, fuzzy
 msgid "Enable Mega Menu module for additional menu options."
-msgstr "Включите модуль Mega Menu для дополнительных опций меню."
+msgstr ""
 
 #: ../inc/theme-options.php:167
-#, fuzzy
 msgid "Mega Menu sidebars count"
-msgstr "Количество боковых панелей Mega Menu"
+msgstr ""
 
 #: ../inc/theme-options.php:168
-#, fuzzy
 msgid "Additional sidebars for usage in mega menu items."
-msgstr "Дополнительные боковые панели для использования в пунктах мега-меню."
+msgstr ""
 
 #: ../inc/theme-options.php:182
 msgid "Scroll to top button"
 msgstr "Кнопка наверх"
 
 #: ../inc/theme-options.php:183
-#, fuzzy
 msgid "Show scroll to top button after page scroll."
-msgstr "Показывать кнопку прокрутки к верху после прокрутки страницы."
+msgstr ""
 
 #: ../inc/theme-options.php:192
-#, fuzzy
 msgid "Search toggle button position"
-msgstr "Положение кнопки переключения поиска"
+msgstr ""
 
 #: ../inc/theme-options.php:197 ../inc/theme-options.php:427
 msgid "Top menu"
 msgstr "Верхнее меню"
 
 #: ../inc/theme-options.php:200
-#, fuzzy
 msgid "Change location for search form toggle button."
-msgstr "Изменение местоположения кнопки переключения формы поиска."
+msgstr ""
 
 #: ../inc/theme-options.php:206
 msgid "Body background"
 msgstr "Основной фон"
 
 #: ../inc/theme-options.php:207
-#, fuzzy
 msgid "Change your site main background settings."
-msgstr "Измените настройки основного фона вашего сайта."
+msgstr ""
 
 #: ../inc/theme-options.php:225
-#, fuzzy
 msgid "Logo image width (px)"
-msgstr "Ширина изображения логотипа (px)"
+msgstr ""
 
 #: ../inc/theme-options.php:226
 msgid "For example: 150"
@@ -1488,48 +1273,40 @@ msgid "Text logo"
 msgstr "Текстовый логотип"
 
 #: ../inc/theme-options.php:236
-#, fuzzy
 msgid "Use text logo instead of image."
-msgstr "Используйте текстовый логотип вместо изображения."
+msgstr ""
 
 #: ../inc/theme-options.php:245
-#, fuzzy
 msgid "Text logo title"
-msgstr "Введите текст лого"
+msgstr ""
 
 #: ../inc/theme-options.php:248
-#, fuzzy
 msgid "Add your site text logo. HTML tags allowed."
-msgstr "Добавьте текстовый логотип вашего сайта. Разрешены HTML-теги."
+msgstr ""
 
 #: ../inc/theme-options.php:255
-#, fuzzy
 msgid "Text logo font"
-msgstr "Размер шрифта текстового логотипа"
+msgstr ""
 
 #: ../inc/theme-options.php:270
 msgid "Logo position"
 msgstr "Положение логотипа"
 
 #: ../inc/theme-options.php:279
-#, fuzzy
 msgid "Change logo align and position in header."
-msgstr "Изменение выравнивания и положения логотипа в заголовке."
+msgstr ""
 
 #: ../inc/theme-options.php:285
-#, fuzzy
 msgid "Header tagline"
-msgstr "Описание сайта"
+msgstr ""
 
 #: ../inc/theme-options.php:286
-#, fuzzy
 msgid "Show text tagline in header."
-msgstr "Показать текстовый заголовок в заголовке."
+msgstr ""
 
 #: ../inc/theme-options.php:295
-#, fuzzy
 msgid "Header tagline text style"
-msgstr "Стиль текста заголовка"
+msgstr ""
 
 #: ../inc/theme-options.php:300 ../inc/theme-options.php:539
 msgid "Regular"
@@ -1541,9 +1318,8 @@ msgid "UPPERCASE"
 msgstr "ВЕРХНИЙ РЕГИСТР"
 
 #: ../inc/theme-options.php:303
-#, fuzzy
 msgid "Change header tagline text transform style."
-msgstr "Изменение стиля преобразования текста тега заголовка."
+msgstr ""
 
 #: ../inc/theme-options.php:309
 msgid "Header"
@@ -1562,29 +1338,24 @@ msgid "Header background"
 msgstr "Фон шапки"
 
 #: ../inc/theme-options.php:329
-#, fuzzy
 msgid "Change your header background settings."
-msgstr "Измените настройки фона заголовка."
+msgstr ""
 
 #: ../inc/theme-options.php:345
-#, fuzzy
 msgid "Sticky header"
-msgstr "Закрепленная шапка"
+msgstr ""
 
 #: ../inc/theme-options.php:346
-#, fuzzy
 msgid "Main Menu fixed to top on scroll."
-msgstr "Главное меню фиксируется в верхней части при прокрутке."
+msgstr ""
 
 #: ../inc/theme-options.php:355
-#, fuzzy
 msgid "Show site logo in sticky header"
-msgstr "Показывать логотип сайта в липком заголовке"
+msgstr ""
 
 #: ../inc/theme-options.php:365
-#, fuzzy
 msgid "Header banner 1 position"
-msgstr "Баннер в заголовке 1 позиция"
+msgstr ""
 
 #: ../inc/theme-options.php:373 ../inc/theme-options.php:399
 #: ../inc/theme-options.php:457 ../inc/theme-options.php:512
@@ -1592,55 +1363,40 @@ msgid "None"
 msgstr "Нет"
 
 #: ../inc/theme-options.php:375 ../inc/theme-options.php:401
-#, fuzzy
 msgid ""
 "You can show banner image or some text in your header. Make sure that you "
 "use different positions for logo and your banner (for example logo at the "
 "left and banner at the right)."
 msgstr ""
-"Вы можете показать изображение баннера или текст в заголовке. Убедитесь, что "
-"вы используете разные позиции для логотипа и баннера (например, логотип "
-"слева, а баннер справа)."
 
 #: ../inc/theme-options.php:381
-#, fuzzy
 msgid "Header banner 1 HTML"
-msgstr "Баннер для заголовка 1 HTML"
+msgstr ""
 
 #: ../inc/theme-options.php:382 ../inc/theme-options.php:408
-#, fuzzy
 msgid ""
 "If you selected Header banner position below you can use any HTML here to "
 "show your banner or other content in header."
 msgstr ""
-"Если вы выбрали позицию Header banner ниже, вы можете использовать любой "
-"HTML здесь, чтобы показать ваш баннер или другое содержимое в заголовке."
 
 #: ../inc/theme-options.php:391
-#, fuzzy
 msgid "Header banner 2 position"
-msgstr "Баннер в заголовке 2 позиции"
+msgstr ""
 
 #: ../inc/theme-options.php:407
-#, fuzzy
 msgid "Header banner 2 HTML"
-msgstr "Баннер для заголовка 2 HTML"
+msgstr ""
 
 #: ../inc/theme-options.php:417
-#, fuzzy
 msgid "Disable entire header"
-msgstr "Отключить весь заголовок"
+msgstr ""
 
 #: ../inc/theme-options.php:418
-#, fuzzy
 msgid ""
 "This option will disable ALL header (with menu below header, logo, etc). "
 "Useful for minimalistic design with left/right sidebar used to show logo and "
 "menu."
 msgstr ""
-"Эта опция отключает ВСЕ заголовки (с меню под заголовком, логотипом и т.д.). "
-"Полезно для минималистичного дизайна с левой/правой боковой панелью, "
-"используемой для отображения логотипа и меню."
 
 #: ../inc/theme-options.php:436
 msgid "Top menu style"
@@ -1655,65 +1411,56 @@ msgid "Dark"
 msgstr "Темный"
 
 #: ../inc/theme-options.php:445
-#, fuzzy
 msgid "Change colors styling for top menu."
-msgstr "Изменение стиля цветов для верхнего меню."
+msgstr ""
 
 #: ../inc/theme-options.php:451
-#, fuzzy
 msgid "Top menu text tranform"
-msgstr "Трансформация текста верхнего меню"
+msgstr ""
 
 #: ../inc/theme-options.php:460
-#, fuzzy
 msgid "Change text transform for top menu."
-msgstr "Изменение преобразования текста для верхнего меню."
+msgstr ""
 
 #: ../inc/theme-options.php:466 ../inc/theme-options.php:1588
 msgid "Social icons"
 msgstr "Социальные иконки"
 
 #: ../inc/theme-options.php:467
-#, fuzzy
 msgid "Enable social icons in top menu."
-msgstr "Включите социальные иконки в верхнем меню."
+msgstr ""
 
 #: ../inc/theme-options.php:476
 msgid "Disable top menu"
 msgstr "Отключить верхнее меню"
 
 #: ../inc/theme-options.php:477
-#, fuzzy
 msgid "This option will disable top menu."
-msgstr "Эта опция отключает верхнее меню."
+msgstr ""
 
 #: ../inc/theme-options.php:486
-#, fuzzy
 msgid "Top menu top/bottom paddings (px)"
-msgstr "Отступы сверху/снизу верхнего меню (px)"
+msgstr ""
 
 #: ../inc/theme-options.php:487
-#, fuzzy
 msgid "Adjust this value to change menu height. Default: 10px"
-msgstr "Настройте это значение для изменения высоты меню. По умолчанию: 10px"
+msgstr ""
 
 #: ../inc/theme-options.php:496
 msgid "Main menu"
 msgstr "Главное меню"
 
 #: ../inc/theme-options.php:505
-#, fuzzy
 msgid "Main menu font decoration"
-msgstr "Оформление шрифта главного меню"
+msgstr ""
 
 #: ../inc/theme-options.php:511
 msgid "Italic"
 msgstr "Курсив"
 
 #: ../inc/theme-options.php:520
-#, fuzzy
 msgid "Main menu font size"
-msgstr "Размер шрифта главного меню"
+msgstr ""
 
 #: ../inc/theme-options.php:525
 msgid "Normal"
@@ -1724,74 +1471,59 @@ msgid "Large"
 msgstr "Большой"
 
 #: ../inc/theme-options.php:534
-#, fuzzy
 msgid "Main menu font weight"
-msgstr "Вес шрифта главного меню"
+msgstr ""
 
 #: ../inc/theme-options.php:540
 msgid "Bold"
 msgstr "Жирный"
 
 #: ../inc/theme-options.php:548
-#, fuzzy
 msgid "Main menu font letter spacing"
-msgstr "Расстояние между буквами шрифта главного меню"
+msgstr ""
 
 #: ../inc/theme-options.php:553
 msgid "Enable"
 msgstr "Включить"
 
 #: ../inc/theme-options.php:562
-#, fuzzy
 msgid "Main menu dropdown arrows"
-msgstr "Стрелки выпадающего меню главного меню"
+msgstr ""
 
 #: ../inc/theme-options.php:567
-#, fuzzy
 msgid "Right >"
-msgstr "Справа: "
+msgstr ""
 
 #: ../inc/theme-options.php:568
-#, fuzzy
 msgid "Down V"
-msgstr "Вниз V"
+msgstr ""
 
 #: ../inc/theme-options.php:577
-#, fuzzy
 msgid "Borders in main menu"
-msgstr "Границы в главном меню"
+msgstr ""
 
 #: ../inc/theme-options.php:578
-#, fuzzy
 msgid ""
 "Main menu have bordes at top and sides. You can use this option to disable "
 "borders and have more clean simple design."
 msgstr ""
-"Главное меню имеет границы сверху и по бокам. Вы можете использовать эту "
-"опцию, чтобы отключить границы и получить более чистый простой дизайн."
 
 #: ../inc/theme-options.php:587
-#, fuzzy
 msgid "Bottom margin for main menu"
-msgstr "Нижнее поле для главного меню"
+msgstr ""
 
 #: ../inc/theme-options.php:588
-#, fuzzy
 msgid ""
 "Enable this option if you want to add additional bottom margin for main menu."
 msgstr ""
-"Включите эту опцию, если вы хотите добавить дополнительное нижнее поле для "
-"главного меню."
 
 #: ../inc/theme-options.php:597
-#, fuzzy
 msgid "Main menu top/bottom paddings (px)"
-msgstr "Верхнее/нижнее отступы главного меню (px)"
+msgstr ""
 
 #: ../inc/theme-options.php:598
-#, fuzzy
 msgid "Adjust this value to change menu height. Default: 20px"
-msgstr "Настройте это значение для изменения высоты меню. По умолчанию: 20px"
+msgstr ""
 
 #: ../inc/theme-options.php:608
 msgid "Footer"
@@ -1802,208 +1534,154 @@ msgid "Footer style"
 msgstr "Стиль футера"
 
 #: ../inc/theme-options.php:626
-#, fuzzy
 msgid "Change colors styling for footer."
-msgstr "Изменение стиля цветов для нижнего колонтитула."
+msgstr ""
 
 #: ../inc/theme-options.php:632
-#, fuzzy
 msgid "Footer sidebar only on homepage"
-msgstr "Боковая панель нижнего колонтитула только на главной странице"
+msgstr ""
 
 #: ../inc/theme-options.php:633
-#, fuzzy
 msgid "Disable this option to show footer sidebar on all site pages."
 msgstr ""
-"Отключите эту опцию, чтобы показывать боковую панель нижнего колонтитула на "
-"всех страницах сайта."
 
 #: ../inc/theme-options.php:642
-#, fuzzy
 msgid "Footer menu"
-msgstr "Меню в футере"
+msgstr ""
 
 #: ../inc/theme-options.php:643
-#, fuzzy
 msgid "Disable this option to hide footer menu."
-msgstr "Отключите эту опцию, чтобы скрыть меню нижнего колонтитула."
+msgstr ""
 
 #: ../inc/theme-options.php:652
-#, fuzzy
 msgid "Social icons in footer"
-msgstr "Включить социальные иконки в футере"
+msgstr ""
 
 #: ../inc/theme-options.php:653
-#, fuzzy
 msgid "Disable this option to hide footer social icons."
-msgstr "Отключите эту опцию, чтобы скрыть социальные иконки в футере."
+msgstr ""
 
 #: ../inc/theme-options.php:662
-#, fuzzy
 msgid "Footer copyright text"
-msgstr "Текст копирайта в нижнем колонтитуле"
+msgstr ""
 
 #: ../inc/theme-options.php:663
-#, fuzzy
 msgid "Change your footer copyright text."
-msgstr "Измените текст авторского права в нижнем колонтитуле."
+msgstr ""
 
 #: ../inc/theme-options.php:672
-#, fuzzy
 msgid "Footer shortcode block"
-msgstr "Блок шорткодов нижнего колонтитула"
+msgstr ""
 
 #: ../inc/theme-options.php:673
-#, fuzzy
 msgid "Boxed block with any shortcode from any plugin or HTML in footer."
-msgstr "Блок в рамке с любым шорткодом из любого плагина или HTML в футере."
+msgstr ""
 
 #: ../inc/theme-options.php:682
-#, fuzzy
 msgid "Footer shortcode block only on homepage"
-msgstr "Блок шорткодов нижнего колонтитула только на главной странице"
+msgstr ""
 
 #: ../inc/theme-options.php:683
-#, fuzzy
 msgid "Disable this option to show footer shortcode block on all site pages."
 msgstr ""
-"Отключите эту опцию, чтобы показать блок шорткодов футера на всех страницах "
-"сайта."
 
 #: ../inc/theme-options.php:692
-#, fuzzy
 msgid "Footer shortcode block content"
-msgstr "Содержание блока шорткодов нижнего колонтитула"
+msgstr ""
 
 #: ../inc/theme-options.php:693
-#, fuzzy
 msgid ""
 "Add shortcode from any plugin that you want to display here (you can combine "
 "it with HTML), for example: <h1>My title</h1><div>[my_shortcode]</div>"
 msgstr ""
-"Добавьте шорткод из любого плагина, который вы хотите отобразить здесь (вы "
-"можете объединить его с HTML), например: <h1>Мой заголовок</"
-"h1><div>[my_shortcode]</div>"
 
 #: ../inc/theme-options.php:702
-#, fuzzy
 msgid "Footer HTML block"
-msgstr "HTML-блок нижнего колонтитула"
+msgstr ""
 
 #: ../inc/theme-options.php:703
-#, fuzzy
 msgid "Fullwidth block with any HTML and background image in footer."
-msgstr "Полноформатный блок с любым HTML и фоновым изображением в футере."
+msgstr ""
 
 #: ../inc/theme-options.php:712
-#, fuzzy
 msgid "Footer HTML block only on homepage"
-msgstr "HTML-блок нижнего колонтитула только на главной странице"
+msgstr ""
 
 #: ../inc/theme-options.php:713
-#, fuzzy
 msgid "Disable this option to show footer HTML block on all site pages."
 msgstr ""
-"Отключите эту опцию, чтобы показывать HTML-блок нижнего колонтитула на всех "
-"страницах сайта."
 
 #: ../inc/theme-options.php:722
-#, fuzzy
 msgid "Footer HTML block background"
-msgstr "Фон HTML-блока нижнего колонтитула"
+msgstr ""
 
 #: ../inc/theme-options.php:723
-#, fuzzy
 msgid ""
 "Upload your footer HTML Block background image (1600x1200px JPG "
 "recommended). Remove image to remove background."
 msgstr ""
-"Загрузите фоновое изображение HTML-блока нижнего колонтитула (рекомендуется "
-"1600x1200px JPG). Удалите изображение, чтобы убрать фон."
 
 #: ../inc/theme-options.php:739
-#, fuzzy
 msgid "Footer HTML block text color"
-msgstr "Цвет текста блока нижнего колонтитула HTML"
+msgstr ""
 
 #: ../inc/theme-options.php:740
-#, fuzzy
 msgid "Change text color in footer HTML block"
-msgstr "Изменение цвета текста в HTML-блоке нижнего колонтитула"
+msgstr ""
 
 #: ../inc/theme-options.php:749
-#, fuzzy
 msgid "Footer HTML block content"
-msgstr "Содержание HTML-блока нижнего колонтитула"
+msgstr ""
 
 #: ../inc/theme-options.php:750
-#, fuzzy
 msgid ""
 "You can use any HTML and shortcodes here to display any content in your "
 "footer block."
 msgstr ""
-"Здесь вы можете использовать любой HTML и шорткоды для отображения любого "
-"содержимого в блоке нижнего колонтитула."
 
 #: ../inc/theme-options.php:759
-#, fuzzy
 msgid "Instagram block in footer"
-msgstr "Блок Instagram в футере"
+msgstr ""
 
 #: ../inc/theme-options.php:760
-#, fuzzy
 msgid "Instagram Feed plugin must be activated and configured for this option."
 msgstr ""
-"Плагин Instagram Feed должен быть активирован и настроен для этой опции."
 
 #: ../inc/theme-options.php:769
-#, fuzzy
 msgid "Instagram block only on homepage"
-msgstr "Блокировка Instagram только на главной странице"
+msgstr ""
 
 #: ../inc/theme-options.php:770
-#, fuzzy
 msgid ""
 "Disable this option if you want to show Instagram block on all site pages."
 msgstr ""
-"Отключите эту опцию, если вы хотите показывать блок Instagram на всех "
-"страницах сайта."
 
 #: ../inc/theme-options.php:779
-#, fuzzy
 msgid "Instagram block title"
-msgstr "Заголовок блока Instagram"
+msgstr ""
 
 #: ../inc/theme-options.php:780
-#, fuzzy
 msgid "Leave empty if you don't want to show title."
-msgstr "Оставьте пустым, если вы не хотите показывать название."
+msgstr ""
 
 #: ../inc/theme-options.php:789
-#, fuzzy
 msgid "Instagram feed shortcode"
-msgstr "Шорткод ленты Instagram"
+msgstr ""
 
 #: ../inc/theme-options.php:790
-#, fuzzy
 msgid ""
 "You can change default shortcode here if you use alternative Instagram "
 "plugin. Default: [instagram-feed]"
 msgstr ""
-"Вы можете изменить шорткод по умолчанию здесь, если вы используете "
-"альтернативный плагин Instagram. По умолчанию: [instagram-feed]"
 
 #: ../inc/theme-options.php:799
 msgid "Blog"
 msgstr "Блог"
 
 #: ../inc/theme-options.php:800
-#, fuzzy
 msgid ""
 "This settings affect your blog list display (homepage, archive, search)."
 msgstr ""
-"Эти настройки влияют на отображение списка блогов (главная страница, архив, "
-"поиск)."
 
 #: ../inc/theme-options.php:808
 msgid "Blog layout"
@@ -2014,85 +1692,67 @@ msgid "Default layout"
 msgstr "Макет по умолчанию"
 
 #: ../inc/theme-options.php:815
-#, fuzzy
 msgid "2 columns"
-msgstr "2 колонки"
+msgstr ""
 
 #: ../inc/theme-options.php:816
-#, fuzzy
 msgid "2 columns with first big block"
-msgstr "2 колонки с первым большим блоком"
+msgstr ""
 
 #: ../inc/theme-options.php:817
-#, fuzzy
 msgid "List with short posts blocks"
-msgstr "Список с блоками коротких сообщений"
+msgstr ""
 
 #: ../inc/theme-options.php:818
-#, fuzzy
 msgid "List with short posts and first big block"
-msgstr "Список с короткими постами и первым большим блоком"
+msgstr ""
 
 #: ../inc/theme-options.php:819
-#, fuzzy
 msgid "Masonry layout"
-msgstr "Каменная кладка"
+msgstr ""
 
 #: ../inc/theme-options.php:820
-#, fuzzy
 msgid "Centered text (Minimalistic, No images)"
-msgstr "Текст по центру (минималистичный, без изображений)"
+msgstr ""
 
 #: ../inc/theme-options.php:822
-#, fuzzy
 msgid "This option completely change blog listing layout and posts display."
-msgstr "Эта опция полностью изменяет макет списка блога и отображение записей."
+msgstr ""
 
 #: ../inc/theme-options.php:828
-#, fuzzy
 msgid "Blog posts short content display"
-msgstr "Отображение краткого содержания записей блога"
+msgstr ""
 
 #: ../inc/theme-options.php:834
-#, fuzzy
 msgid "Full content (You will add <!--more--> tag manually)"
-msgstr "Полное содержание (Вы добавите тег <!--more--> вручную)"
+msgstr ""
 
 #: ../inc/theme-options.php:835
-#, fuzzy
 msgid "Excerpt (Auto crop by words)"
-msgstr "Отрывок (автообрезка по словам)"
+msgstr ""
 
 #: ../inc/theme-options.php:836
-#, fuzzy
 msgid "Disable short content and Continue reading button"
-msgstr "Отключите краткое содержание и кнопку \"Продолжить чтение"
+msgstr ""
 
 #: ../inc/theme-options.php:838
-#, fuzzy
 msgid ""
 "Change short post content display in blog listing.<br/><a href=\"https://en."
 "support.wordpress.com/more-tag/\" target=\"_blank\">Read more</a> about "
 "&#x3C;!--more--&#x3E; tag."
 msgstr ""
-"Изменение отображения содержания коротких постов в листинге блогов.<br/><a "
-"href=\"https://en.support.wordpress.com/more-tag/\" target=\"_blank"
-"\">Подробнее</a> о теге <!--more-->."
 
 #: ../inc/theme-options.php:844
-#, fuzzy
 msgid "Post excerpt length (words)"
-msgstr "Длина анонса (слова) избранной записи"
+msgstr ""
 
 #: ../inc/theme-options.php:845
-#, fuzzy
 msgid "Used by WordPress for post shortening. Default: 40"
-msgstr "Используется WordPress для сокращения постов. По умолчанию: 40"
+msgstr ""
 
 #: ../inc/theme-options.php:854
-#, fuzzy
 msgid "Author name (\"by author\")"
-msgstr "Имя автора (\"по автору\")"
+msgstr ""
 
 #: ../inc/theme-options.php:864 ../inc/theme-options.php:1394
 msgid "Share buttons"
@@ -2103,18 +1763,14 @@ msgid "Related posts"
 msgstr "Похожие статьи"
 
 #: ../inc/theme-options.php:875
-#, fuzzy
 msgid ""
 "Display 3 related posts after every post in posts list. Does not available "
 "in Masonry layout and 2 column layout."
 msgstr ""
-"Отображение 3 связанных сообщений после каждого сообщения в списке "
-"сообщений. Не доступно в макете Masonry и двухколоночном макете."
 
 #: ../inc/theme-options.php:884
-#, fuzzy
 msgid "Show related posts by"
-msgstr "Показать похожие статьи от"
+msgstr ""
 
 #: ../inc/theme-options.php:890 ../inc/theme-options.php:1454
 msgid "Tags"
@@ -2125,405 +1781,296 @@ msgid "Categories"
 msgstr "Категории"
 
 #: ../inc/theme-options.php:893
-#, fuzzy
 msgid ""
 "Related posts can be fetched by the same tags or same categories from "
 "original post."
 msgstr ""
-"Связанные сообщения могут быть найдены по тем же тегам или тем же "
-"категориям, что и исходное сообщение."
 
 #: ../inc/theme-options.php:899 ../inc/theme-options.php:1414
-#, fuzzy
 msgid "Comments counter"
-msgstr "Счетчик комментариев"
+msgstr ""
 
 #: ../inc/theme-options.php:900
-#, fuzzy
 msgid ""
 "This option enable post comments counter display in sliders, theme posts "
 "blocks, regular posts blocks."
 msgstr ""
-"Эта опция позволяет отображать счетчик комментариев к сообщениям в "
-"слайдерах, блоках тематических сообщений, блоках обычных сообщений."
 
 #: ../inc/theme-options.php:909 ../inc/theme-options.php:1424
-#, fuzzy
 msgid "Views counter"
-msgstr "Счетчик просмотров"
+msgstr ""
 
 #: ../inc/theme-options.php:910
-#, fuzzy
 msgid ""
 "This option enable post views counter display in sliders, theme posts "
 "blocks, regular posts blocks."
 msgstr ""
-"Эта опция позволяет отображать счетчик просмотров сообщений в слайдерах, "
-"блоках тематических сообщений, блоках обычных сообщений."
 
 #: ../inc/theme-options.php:919
-#, fuzzy
 msgid "Disable blog posts listing on blog page"
-msgstr "Отключить отображение записей в блоге на странице блога"
+msgstr ""
 
 #: ../inc/theme-options.php:920
-#, fuzzy
 msgid ""
 "Enable this options if you does not want to show posts on your blog page. "
 "You can use this to create minimalistic website (you will have just blog "
 "slider, welcome block and other theme blocks on blog homepage."
 msgstr ""
-"Включите эту опцию, если вы не хотите показывать сообщения на странице "
-"вашего блога. Вы можете использовать эту опцию для создания минималистичного "
-"сайта (у вас будет только слайдер блога, блок приветствия и другие "
-"тематические блоки на главной странице блога."
 
 #: ../inc/theme-options.php:930
-#, fuzzy
 msgid "Home: Static page"
-msgstr "Главная страница: Статическая страница"
+msgstr ""
 
 #: ../inc/theme-options.php:931
-#, fuzzy
 msgid ""
 "This settings affect your static homepage display (if you use static "
 "homepage template instead of blog page homepage)."
 msgstr ""
-"Эти настройки влияют на отображение статической домашней страницы (если вы "
-"используете шаблон статической домашней страницы вместо домашней страницы "
-"блога)."
 
 #: ../inc/theme-options.php:939
-#, fuzzy
 msgid "Latest posts limit"
-msgstr "Последние сообщения лимит"
+msgstr ""
 
 #: ../inc/theme-options.php:940
-#, fuzzy
 msgid ""
 "How many latest posts you want to display on static homepage. Note - if you "
 "want to change limit for your regular BLOG page you can do this in Settings "
 "> Reading in WordPress dashboard."
 msgstr ""
-"Сколько последних сообщений вы хотите отображать на статической главной "
-"странице. Примечание - если вы хотите изменить лимит для вашей обычной "
-"страницы BLOG, вы можете сделать это в Настройки > Чтение в панели WordPress."
 
 #: ../inc/theme-options.php:949
-#, fuzzy
 msgid "Home: Blog slider"
-msgstr "Главная: Слайдер блога"
+msgstr ""
 
 #: ../inc/theme-options.php:950
-#, fuzzy
 msgid "Settings for homepage slider located below header."
 msgstr ""
-"Настройки для слайдера главной страницы, расположенного под заголовком."
 
 #: ../inc/theme-options.php:958
 msgid "Blog Slider"
 msgstr "Слайдер блога"
 
 #: ../inc/theme-options.php:959
-#, fuzzy
 msgid "Enable posts slider in blog page header."
-msgstr "Включите слайдер постов в шапке страницы блога."
+msgstr ""
 
 #: ../inc/theme-options.php:968
-#, fuzzy
 msgid "Custom slider"
-msgstr "Произвольный слайдер:"
+msgstr ""
 
 #: ../inc/theme-options.php:969
-#, fuzzy
 msgid ""
 "You can use third party slider plugins instead of theme slider. IMPORTANT: "
 "All theme slider options BELOW will NOT WORK if you enabled custom slider, "
 "use your slider plugin settings instead. You must specify your third party "
 "slider shortcode below."
 msgstr ""
-"Вы можете использовать сторонние плагины слайдера вместо слайдера темы. "
-"ВАЖНО: Все приведенные ниже опции слайдера темы НЕ РАБОТАЮТ, если вы "
-"включили пользовательский слайдер, вместо него используйте настройки вашего "
-"плагина слайдера. Ниже вы должны указать шорткод вашего стороннего слайдера."
 
 #: ../inc/theme-options.php:978
-#, fuzzy
 msgid "Custom slider shortcode"
-msgstr "Пользовательский шорткод слайдера"
+msgstr ""
 
 #: ../inc/theme-options.php:979
-#, fuzzy
 msgid ""
 "Add your custom slider shortcode here (ignore this option if you use theme "
 "slider). For example: [your-slider]"
 msgstr ""
-"Добавьте сюда шорткод вашего пользовательского слайдера (игнорируйте эту "
-"опцию, если вы используете слайдер темы). Например: [your-slider]"
 
 #: ../inc/theme-options.php:988
-#, fuzzy
 msgid "Slider width"
-msgstr "Ширина слайда"
+msgstr ""
 
 #: ../inc/theme-options.php:994
-#, fuzzy
 msgid "Fullwidth"
-msgstr "На всю ширину"
+msgstr ""
 
 #: ../inc/theme-options.php:995
-#, fuzzy
 msgid "Boxed"
-msgstr "Фиксированный"
+msgstr ""
 
 #: ../inc/theme-options.php:1002
-#, fuzzy
 msgid "Slider image height (px)"
-msgstr "Высота изображения слайдера (px)"
+msgstr ""
 
 #: ../inc/theme-options.php:1003
-#, fuzzy
 msgid "Drag to change value. Default: 500"
-msgstr "Перетащите, чтобы изменить значение. По умолчанию: 500"
+msgstr ""
 
 #: ../inc/theme-options.php:1018
-#, fuzzy
 msgid "Slider posts"
-msgstr "Слайдер последних записей"
+msgstr ""
 
 #: ../inc/theme-options.php:1023
-#, fuzzy
 msgid "Featured"
-msgstr "Рекомендуем"
+msgstr ""
 
 #: ../inc/theme-options.php:1024
-#, fuzzy
 msgid "Latest"
-msgstr "Свежие"
+msgstr ""
 
 #: ../inc/theme-options.php:1026
-#, fuzzy
 msgid ""
 "Featured - you can assign posts to slider in post edit screen at the bottom "
 "settings box. Latest - your latest posts by date."
 msgstr ""
-"Featured - вы можете назначить посты для слайдера на экране редактирования "
-"постов в нижнем поле настроек. Последние - ваши последние сообщения по дате."
 
 #: ../inc/theme-options.php:1032
-#, fuzzy
 msgid "Slider posts limit"
-msgstr "Лимит записей слайдера"
+msgstr ""
 
 #: ../inc/theme-options.php:1033
-#, fuzzy
 msgid "Limit posts in slider. For example: 10"
-msgstr "Ограничьте количество постов в слайдере. Например: 10"
+msgstr ""
 
 #: ../inc/theme-options.php:1042
-#, fuzzy
 msgid "Slider autoplay (sec)"
-msgstr "Автовоспроизведение слайдера (сек)"
+msgstr ""
 
 #: ../inc/theme-options.php:1060
-#, fuzzy
 msgid "Navigation arrows"
-msgstr "Стрелки навигации"
+msgstr ""
 
 #: ../inc/theme-options.php:1070
-#, fuzzy
 msgid "Slider text color"
-msgstr "Цвет текста слайдера отзывов"
+msgstr ""
 
 #: ../inc/theme-options.php:1076 ../inc/theme-options.php:1767
-#, fuzzy
 msgid "Black"
-msgstr "Черная"
+msgstr ""
 
 #: ../inc/theme-options.php:1077
-#, fuzzy
 msgid "White"
-msgstr "Белый"
+msgstr ""
 
 #: ../inc/theme-options.php:1085
-#, fuzzy
 msgid "Home: Subscribe block"
-msgstr "Главная: Блок подписки"
+msgstr ""
 
 #: ../inc/theme-options.php:1093 ../inc/theme-options.php:1444
-#, fuzzy
 msgid "Subscribe block"
-msgstr "Блок Подписаться"
+msgstr ""
 
 #: ../inc/theme-options.php:1094
-#, fuzzy
 msgid ""
 "Boxed block with any shortcode from any plugin or HTML below slider on "
 "homepage. Can be used with subscription form from Mailchimp WP plugin. Also "
 "can be enabled on single post page."
 msgstr ""
-"Блок с любым шорткодом из любого плагина или HTML под слайдером на главной "
-"странице. Может использоваться с формой подписки из плагина Mailchimp WP. "
-"Также может быть включен на странице одного поста."
 
 #: ../inc/theme-options.php:1103
-#, fuzzy
 msgid "Subscribe block content"
-msgstr "Содержание блока подписки"
+msgstr ""
 
 #: ../inc/theme-options.php:1104
-#, fuzzy
 msgid ""
 "Add shortcode from any plugin that you want to display here (you can combine "
 "it with HTML), for example: <h5>My title</h5><div>[my_shortcode]</div>"
 msgstr ""
-"Добавьте шорткод из любого плагина, который вы хотите отобразить здесь (вы "
-"можете объединить его с HTML), например: <h5>Мой заголовок</"
-"h5><div>[my_shortcode]</div>"
 
 #: ../inc/theme-options.php:1124
-#, fuzzy
 msgid "Home: Welcome block"
-msgstr "Дом: Блок приветствия"
+msgstr ""
 
 #: ../inc/theme-options.php:1133
-#, fuzzy
 msgid "Welcome block on homepage"
-msgstr "Приветственный блок на главной странице"
+msgstr ""
 
 #: ../inc/theme-options.php:1134
-#, fuzzy
 msgid ""
 "This block located below blog slider on homepage. You can use any HTML to "
 "display any content in your welcome block with predefined theme layouts and "
 "styles."
 msgstr ""
-"Этот блок расположен под слайдером блога на главной странице. Вы можете "
-"использовать любой HTML для отображения любого содержимого в блоке "
-"приветствия с предопределенными макетами и стилями темы."
 
 #: ../inc/theme-options.php:1143
-#, fuzzy
 msgid "Welcome block HTML"
-msgstr "Приветственный блок HTML"
+msgstr ""
 
 #: ../inc/theme-options.php:1144 ../inc/theme-options.php:1196
-#, fuzzy
 msgid ""
 "You can use any HTML and shortcodes here. Switch editor to \"Text\" mode to "
 "avoid issues with WordPress auto tags replace in your HTML code."
 msgstr ""
-"Вы можете использовать здесь любой HTML и шорткоды. Переключите редактор в "
-"режим \"Текст\", чтобы избежать проблем с автозаменой тегов WordPress в HTML-"
-"коде."
 
 #: ../inc/theme-options.php:1153
-#, fuzzy
 msgid "Home: Featured categories"
-msgstr "Главная Текущие категории"
+msgstr ""
 
 #: ../inc/theme-options.php:1154
-#, fuzzy
 msgid "Homepage block with selected categories boxes."
-msgstr "Блок домашней страницы с блоками выбранных категорий."
+msgstr ""
 
 #: ../inc/theme-options.php:1164
-#, fuzzy
 msgid "Featured categories"
-msgstr "Рекомендуемые категории"
+msgstr ""
 
 #: ../inc/theme-options.php:1165
-#, fuzzy
 msgid ""
 "Select featured categories for display on homepage. You need to upload "
 "categories header background images in every category settings page."
 msgstr ""
-"Выберите тематические категории для отображения на главной странице. Вам "
-"необходимо загрузить фоновые изображения заголовков категорий на странице "
-"настроек каждой категории."
 
 #: ../inc/theme-options.php:1176
-#, fuzzy
 msgid "Home: About block"
-msgstr "Главная: О блоке"
+msgstr ""
 
 #: ../inc/theme-options.php:1185
-#, fuzzy
 msgid "About block on homepage"
-msgstr "Блок \"О компании\" на главной странице"
+msgstr ""
 
 #: ../inc/theme-options.php:1186
-#, fuzzy
 msgid ""
 "This block located below blog slider on homepage. You can use any HTML to "
 "display any content in your about block with custom uploaded image."
 msgstr ""
-"Этот блок расположен под слайдером блога на главной странице. Вы можете "
-"использовать любой HTML для отображения любого содержимого в блоке about с "
-"загруженным изображением."
 
 #: ../inc/theme-options.php:1195
-#, fuzzy
 msgid "About block HTML"
-msgstr "О блоке HTML"
+msgstr ""
 
 #: ../inc/theme-options.php:1205
-#, fuzzy
 msgid "About block image"
-msgstr "Об изображении блока"
+msgstr ""
 
 #: ../inc/theme-options.php:1206
-#, fuzzy
 msgid "JPG image, 1000x1000px size recommended."
-msgstr "Изображение в формате JPG, рекомендуемый размер 1000x1000px."
+msgstr ""
 
 #: ../inc/theme-options.php:1218
-#, fuzzy
 msgid "Home: Popular posts carousel"
-msgstr "Главная: Карусель популярных постов"
+msgstr ""
 
 #: ../inc/theme-options.php:1227
-#, fuzzy
 msgid "Popular posts above header"
-msgstr "Популярные сообщения над заголовком"
+msgstr ""
 
 #: ../inc/theme-options.php:1228
-#, fuzzy
 msgid "Carousel with popular posts (by views) above your header on homepage."
 msgstr ""
-"Карусель с популярными постами (по просмотрам) над вашим заголовком на "
-"главной странице."
 
 #: ../inc/theme-options.php:1237
-#, fuzzy
 msgid "Popular posts only on homepage"
-msgstr "Популярные посты только на главной странице"
+msgstr ""
 
 #: ../inc/theme-options.php:1238
-#, fuzzy
 msgid ""
 "Disable this option if you want to show Popular Posts carousel on all site "
 "pages."
 msgstr ""
-"Отключите эту опцию, если вы хотите показывать карусель популярных сообщений "
-"на всех страницах сайта."
 
 #: ../inc/theme-options.php:1247
-#, fuzzy
 msgid "Popular posts limit"
-msgstr "Лимит популярных постов"
+msgstr ""
 
 #: ../inc/theme-options.php:1248
 msgid "For example: 10"
 msgstr "Например: 10"
 
 #: ../inc/theme-options.php:1257
-#, fuzzy
 msgid "Popular posts category slug"
-msgstr "Популярные сообщения категории slug"
+msgstr ""
 
 #: ../inc/theme-options.php:1258
-#, fuzzy
 msgid ""
 "If you want to show popular posts only from some category specify it's SLUG "
 "here (You can create special category like \"Popular\" and assing posts to "
@@ -2531,187 +2078,136 @@ msgid ""
 "when you edit category. Leave empty to show popular posts from all "
 "categories."
 msgstr ""
-"Если вы хотите показывать популярные сообщения только из какой-то категории, "
-"укажите здесь SLUG (Вы можете создать специальную категорию, например "
-"\"Популярные\", и отнести сообщения к ней, если хотите показывать только "
-"избранные сообщения). Вы можете увидеть/установить SLUG категории при "
-"редактировании категории. Оставьте пустым, чтобы показывать популярные посты "
-"из всех категорий."
 
 #: ../inc/theme-options.php:1267
-#, fuzzy
 msgid "Carousel autoplay (sec)"
-msgstr "Автовоспроизведение карусели (сек)"
+msgstr ""
 
 #: ../inc/theme-options.php:1285
-#, fuzzy
 msgid "Home: Editor's picks posts block"
-msgstr "Главная: Блок постов \"Выбор редакции"
+msgstr ""
 
 #: ../inc/theme-options.php:1294
-#, fuzzy
 msgid "Editor's picks on homepage"
-msgstr "Выбор редакции на главной странице"
+msgstr ""
 
 #: ../inc/theme-options.php:1295
-#, fuzzy
 msgid "Special block with one from handpicked posts in footer on homepage."
 msgstr ""
-"Специальный блок с одним из отобранных постов в футере на главной странице."
 
 #: ../inc/theme-options.php:1305
-#, fuzzy
 msgid "Blog single post"
-msgstr "Страница записи блога"
+msgstr ""
 
 #: ../inc/theme-options.php:1306
-#, fuzzy
 msgid "This settings affect your blog single post display."
-msgstr "Эти настройки влияют на отображение одной записи в блоге."
+msgstr ""
 
 #: ../inc/theme-options.php:1314
 msgid "Transparent header"
 msgstr "Прозрачная шапка"
 
 #: ../inc/theme-options.php:1315
-#, fuzzy
 msgid ""
 "This feature make your header transparent and will show it above post/page "
 "header image. You need to upload light logo version to use this feature and "
 "assign header image for posts/pages where you want to see this feature."
 msgstr ""
-"Эта функция делает ваш заголовок прозрачным и показывает его над "
-"изображением заголовка поста/страницы. Чтобы воспользоваться этой функцией, "
-"вам нужно загрузить светлую версию логотипа и назначить изображение "
-"заголовка для постов/страниц, где вы хотите видеть эту функцию."
 
 #: ../inc/theme-options.php:1324
-#, fuzzy
 msgid "Small content width"
-msgstr "Малая ширина содержимого"
+msgstr ""
 
 #: ../inc/theme-options.php:1325
-#, fuzzy
 msgid ""
 "This option add left/right margins on all pages and posts without sidebars "
 "to make your content width smaller."
 msgstr ""
-"Эта опция добавляет левые/правые поля для всех страниц и постов без боковых "
-"панелей, чтобы уменьшить ширину контента."
 
 #: ../inc/theme-options.php:1334
 msgid "Author details"
 msgstr "Об авторе"
 
 #: ../inc/theme-options.php:1335
-#, fuzzy
 msgid ""
 "Show post author details with avatar after post content. You need to fill "
 "your post author biography details and social links in \"Users\" section in "
 "WordPress."
 msgstr ""
-"Показывайте информацию об авторе поста с аватаром после содержимого поста. "
-"Вам необходимо заполнить биографические данные автора поста и социальные "
-"ссылки в разделе \"Пользователи\" в WordPress."
 
 #: ../inc/theme-options.php:1344
-#, fuzzy
 msgid "Bottom post info"
-msgstr "Информация о нижнем столбе"
+msgstr ""
 
 #: ../inc/theme-options.php:1345
-#, fuzzy
 msgid ""
 "Show post info box with comments count, views and post share buttons after "
 "post content."
 msgstr ""
-"Показывайте информационное окно с количеством комментариев, просмотров и "
-"кнопками поделиться постом после содержания поста."
 
 #: ../inc/theme-options.php:1354
-#, fuzzy
 msgid "Header post info"
-msgstr "Информация в заголовке сообщения"
+msgstr ""
 
 #: ../inc/theme-options.php:1355
-#, fuzzy
 msgid "Show post info with post share buttons below post title in header."
 msgstr ""
-"Показывайте информацию о посте с помощью кнопок поделиться постом под "
-"заголовком поста в заголовке."
 
 #: ../inc/theme-options.php:1364
 msgid "Featured image"
 msgstr "Миниатюра"
 
 #: ../inc/theme-options.php:1365
-#, fuzzy
 msgid "Disable to hide post featured image on single post page."
 msgstr ""
-"Отключение скрытия главного изображения поста на странице одного поста."
 
 #: ../inc/theme-options.php:1374
-#, fuzzy
 msgid "Drop caps (first big letter)"
-msgstr "Прописные буквы (первая большая буква)"
+msgstr ""
 
 #: ../inc/theme-options.php:1384
 msgid "Reading progress bar"
 msgstr "Индикатор чтения"
 
 #: ../inc/theme-options.php:1385
-#, fuzzy
 msgid "Show reading progress bar in fixed header."
-msgstr "Показывать индикатор прогресса чтения в фиксированном заголовке."
+msgstr ""
 
 #: ../inc/theme-options.php:1434
-#, fuzzy
 msgid "Navigation links"
-msgstr "Ссылки на навигацию"
+msgstr ""
 
 #: ../inc/theme-options.php:1435
-#, fuzzy
 msgid "Previous/next posts navigation links below post content."
 msgstr ""
-"Навигационные ссылки предыдущих/следующих сообщений под содержанием "
-"сообщения."
 
 #: ../inc/theme-options.php:1445
-#, fuzzy
 msgid ""
 "Show subscription block below related posts. Check theme documentation about "
 "subscription block configuration."
 msgstr ""
-"Показывайте блок подписки под связанными сообщениями. Проверьте документацию "
-"темы о настройке блока подписки."
 
 #: ../inc/theme-options.php:1455
-#, fuzzy
 msgid "Disable to hide post tags on single post page."
-msgstr "Отключение скрытия тегов сообщений на странице одного сообщения."
+msgstr ""
 
 #: ../inc/theme-options.php:1464
-#, fuzzy
 msgid "Worth reading post"
-msgstr "Стоит прочитать пост"
+msgstr ""
 
 #: ../inc/theme-options.php:1465
-#, fuzzy
 msgid ""
 "Show one from selected suggested posts in fly-up fixed block in right bottom "
 "corner. Posts can be selected in your Post settings."
 msgstr ""
-"Показать один из выбранных предложенных постов во всплывающем фиксированном "
-"блоке в правом нижнем углу. Посты можно выбрать в настройках поста."
 
 #: ../inc/theme-options.php:1474
 msgid "Sidebars"
 msgstr "Сайдбары"
 
 #: ../inc/theme-options.php:1475
-#, fuzzy
 msgid "Choose your sidebar positions for different WordPress pages."
-msgstr "Выберите положение боковой панели для разных страниц WordPress."
+msgstr ""
 
 #: ../inc/theme-options.php:1483
 msgid "Blog listing"
@@ -2722,22 +2218,16 @@ msgid "Single Post"
 msgstr "Отдельная запись"
 
 #: ../inc/theme-options.php:1507
-#, fuzzy
 msgid "You can override sidebar position for every post in post settings."
 msgstr ""
-"Вы можете изменить положение боковой панели для каждого сообщения в "
-"настройках сообщения."
 
 #: ../inc/theme-options.php:1513
 msgid "Single page"
 msgstr "Отдельная страница"
 
 #: ../inc/theme-options.php:1522
-#, fuzzy
 msgid "You can override sidebar position for every page in page settings."
 msgstr ""
-"Вы можете переопределить положение боковой панели для каждой страницы в "
-"настройках страницы."
 
 #: ../inc/theme-options.php:1528
 msgid "Archive"
@@ -2757,76 +2247,60 @@ msgid "WooCommerce product page"
 msgstr "Страница товара Woocommerce"
 
 #: ../inc/theme-options.php:1589
-#, fuzzy
 msgid ""
 "Add your social icons and urls. Social icons can be used in several site "
 "areas, sidebars widgets and shortcodes."
 msgstr ""
-"Добавьте свои социальные иконки и урлы. Социальные иконки можно использовать "
-"в нескольких областях сайта, виджетах боковых панелей и шорткодах."
 
 #: ../inc/theme-options.php:1596
-#, fuzzy
 msgid "Social icons (your profiles)"
-msgstr "Социальные иконки (ваши профили)"
+msgstr ""
 
 #: ../inc/theme-options.php:1601
-#, fuzzy
 msgid "Social icon"
-msgstr "Социальные ссылки"
+msgstr ""
 
 #: ../inc/theme-options.php:1604
-#, fuzzy
 msgid "Add social icon"
-msgstr "Добавить социальный значок"
+msgstr ""
 
 #: ../inc/theme-options.php:1610
-#, fuzzy
 msgid "Social web"
-msgstr "Социальная сеть"
+msgstr ""
 
 #: ../inc/theme-options.php:1617
-#, fuzzy
 msgid "Your profile url (including https://)"
-msgstr "Url вашего профиля (включая https://)"
+msgstr ""
 
 #: ../inc/theme-options.php:1627
-#, fuzzy
 msgid "Social share - Facebook"
-msgstr "Социальная доля - Facebook"
+msgstr ""
 
 #: ../inc/theme-options.php:1628 ../inc/theme-options.php:1638
 #: ../inc/theme-options.php:1648 ../inc/theme-options.php:1658
 #: ../inc/theme-options.php:1668 ../inc/theme-options.php:1678
-#, fuzzy
 msgid "Enable/Disable social share button for blog posts."
 msgstr ""
-"Включение/выключение кнопки \"поделиться с друзьями\" для записей в блоге."
 
 #: ../inc/theme-options.php:1637
-#, fuzzy
 msgid "Social share - Twitter"
-msgstr "Социальная доля - Twitter"
+msgstr ""
 
 #: ../inc/theme-options.php:1647
-#, fuzzy
 msgid "Social share - Google+"
-msgstr "Социальная доля - Google+"
+msgstr ""
 
 #: ../inc/theme-options.php:1657
-#, fuzzy
 msgid "Social share - Linkedin"
-msgstr "Социальная доля - Linkedin"
+msgstr ""
 
 #: ../inc/theme-options.php:1667
-#, fuzzy
 msgid "Social share - Pinterest"
-msgstr "Социальная доля - Pinterest"
+msgstr ""
 
 #: ../inc/theme-options.php:1677
-#, fuzzy
 msgid "Social share - VKontakte"
-msgstr "Социальная доля - ВКонтакте"
+msgstr ""
 
 #: ../inc/theme-options.php:1688
 msgid "Fonts"
@@ -2837,57 +2311,46 @@ msgid "Headers font"
 msgstr "Шрифт заголовков"
 
 #: ../inc/theme-options.php:1703
-#, fuzzy
 msgid "Font used in headers (H1-H6 tags)."
-msgstr "Шрифт, используемый в заголовках (теги H1-H6)."
+msgstr ""
 
 #: ../inc/theme-options.php:1711
 msgid "Body font"
 msgstr "Основной шрифт"
 
 #: ../inc/theme-options.php:1718
-#, fuzzy
 msgid "Font used in text elements."
-msgstr "Шрифт, используемый в элементах текста."
+msgstr ""
 
 #: ../inc/theme-options.php:1726
 msgid "Additional font"
 msgstr "Дополнительный шрифт"
 
 #: ../inc/theme-options.php:1732
-#, fuzzy
 msgid "Decorative font used in buttons, menus and some other elements."
 msgstr ""
-"Декоративный шрифт, используемый в кнопках, меню и некоторых других "
-"элементах."
 
 #: ../inc/theme-options.php:1740
-#, fuzzy
 msgid "Load all Google Fonts variants and subsets"
-msgstr "Загрузить все варианты и подмножества шрифтов Google Fonts"
+msgstr ""
 
 #: ../inc/theme-options.php:1741
-#, fuzzy
 msgid ""
 "Enable to load all available variants and subsets for fonts that you "
 "selected."
 msgstr ""
-"Включить загрузку всех доступных вариантов и подмножеств для выбранных "
-"шрифтов."
 
 #: ../inc/theme-options.php:1750
 msgid "Colors"
 msgstr "Цвет"
 
 #: ../inc/theme-options.php:1759
-#, fuzzy
 msgid "Predefined color skin"
-msgstr "Предопределенный цвет кожи"
+msgstr ""
 
 #: ../inc/theme-options.php:1765
-#, fuzzy
 msgid "Use colors specified below"
-msgstr "Используйте цвета, указанные ниже"
+msgstr ""
 
 #: ../inc/theme-options.php:1766
 msgid "Default"
@@ -2926,271 +2389,211 @@ msgid "Brown"
 msgstr "Коричневый"
 
 #: ../inc/theme-options.php:1777
-#, fuzzy
 msgid ""
 "Select one of predefined skins or use your own colors. If you selected any "
 "predefined skins your colors below will NOT be applied."
 msgstr ""
-"Выберите один из предопределенных скинов или используйте свои собственные "
-"цвета. Если вы выбрали любой из предопределенных скинов, ваши цвета ниже не "
-"будут применены."
 
 #: ../inc/theme-options.php:1783
 msgid "Main theme color"
 msgstr "Основной цвет темы"
 
 #: ../inc/theme-options.php:1784
-#, fuzzy
 msgid "Used in multiple theme areas (links, buttons, etc)."
-msgstr "Используется в нескольких областях темы (ссылки, кнопки и т.д.)."
+msgstr ""
 
 #: ../inc/theme-options.php:1793
 msgid "Buttons background color"
 msgstr "Фоновый цвет для кнопок"
 
 #: ../inc/theme-options.php:1794
-#, fuzzy
 msgid "Used in alternative buttons, that does not use main theme color."
 msgstr ""
-"Используется в альтернативных кнопках, которые не используют основной цвет "
-"темы."
 
 #: ../inc/theme-options.php:1803
 msgid "Body text color"
 msgstr "Цвет основного текста"
 
 #: ../inc/theme-options.php:1813
-#, fuzzy
 msgid "Top menu background color (light menu)"
-msgstr "Цвет фона верхнего меню (светлое меню)"
+msgstr ""
 
 #: ../inc/theme-options.php:1823
-#, fuzzy
 msgid "Top menu background color (dark menu)"
-msgstr "Цвет фона верхнего меню (темное меню)"
+msgstr ""
 
 #: ../inc/theme-options.php:1833
-#, fuzzy
 msgid "Mainmenu background color"
-msgstr "Цвет фона главного меню"
+msgstr ""
 
 #: ../inc/theme-options.php:1843
-#, fuzzy
 msgid "Mainmenu link color"
-msgstr "Цвет ссылки главного меню"
+msgstr ""
 
 #: ../inc/theme-options.php:1853
-#, fuzzy
 msgid "Mainmenu link hover color"
-msgstr "Цвет наведения ссылки главного меню"
+msgstr ""
 
 #: ../inc/theme-options.php:1863
-#, fuzzy
 msgid "Mainmenu submenu background color"
-msgstr "Цвет фона подменю главного меню"
+msgstr ""
 
 #: ../inc/theme-options.php:1873
-#, fuzzy
 msgid "Mainmenu submenu link color"
-msgstr "Цвет ссылки подменю главного меню"
+msgstr ""
 
 #: ../inc/theme-options.php:1883
-#, fuzzy
 msgid "Mainmenu submenu link hover color"
-msgstr "Цвет наведения ссылки подменю главного меню"
+msgstr ""
 
 #: ../inc/theme-options.php:1893
-#, fuzzy
 msgid "Footer background color (light footer)"
-msgstr "Цвет фона колонтитула (светлый колонтитул)"
+msgstr ""
 
 #: ../inc/theme-options.php:1903
-#, fuzzy
 msgid "Footer background color (dark footer)"
-msgstr "Цвет фона колонтитула (темный колонтитул)"
+msgstr ""
 
 #: ../inc/theme-options.php:1913
-#, fuzzy
 msgid "Footer sidebar background color"
-msgstr "Фоновый цвет сайдбара футера"
+msgstr ""
 
 #: ../inc/theme-options.php:1923
-#, fuzzy
 msgid "Blog slider background color"
-msgstr "Цвет фона слайдера блога"
+msgstr ""
 
 #: ../inc/theme-options.php:1934
 msgid "Banners management"
 msgstr "Управление баннерами"
 
 #: ../inc/theme-options.php:1935
-#, fuzzy
 msgid ""
 "You can add any HTML, JavaScript and WordPress shortcodes in this blocks "
 "content to show your advertisement. Switch to Text editor mode to add HTML/"
 "JavaScript code."
 msgstr ""
-"Вы можете добавить любой HTML, JavaScript и шорткоды WordPress в содержимое "
-"этих блоков для показа вашей рекламы. Для добавления кода HTML/JavaScript "
-"переключитесь в режим текстового редактора."
 
 #: ../inc/theme-options.php:1943
 msgid "Header banner"
 msgstr "Баннер в шапке"
 
 #: ../inc/theme-options.php:1953
-#, fuzzy
 msgid "Header banner HTML"
-msgstr "HTML баннер заголовка"
+msgstr ""
 
 #: ../inc/theme-options.php:1954
-#, fuzzy
 msgid "Displayed in site header below top menu."
-msgstr "Отображается в шапке сайта под верхним меню."
+msgstr ""
 
 #: ../inc/theme-options.php:1963
-#, fuzzy
 msgid "Below header banner"
-msgstr "Баннер ниже шапки"
+msgstr ""
 
 #: ../inc/theme-options.php:1973
-#, fuzzy
 msgid "Below header banner HTML"
-msgstr "Ниже заголовка баннер HTML"
+msgstr ""
 
 #: ../inc/theme-options.php:1974
-#, fuzzy
 msgid "Displayed below site header."
-msgstr "Отображается под заголовком сайта."
+msgstr ""
 
 #: ../inc/theme-options.php:1983
-#, fuzzy
 msgid "Above footer banner"
-msgstr "Баннер над нижним колонтитулом"
+msgstr ""
 
 #: ../inc/theme-options.php:1993
-#, fuzzy
 msgid "Above footer banner HTML"
-msgstr "Баннер над нижним колонтитулом HTML"
+msgstr ""
 
 #: ../inc/theme-options.php:1994
-#, fuzzy
 msgid "Displayed above site footer."
-msgstr "Отображается над нижним колонтитулом сайта."
+msgstr ""
 
 #: ../inc/theme-options.php:2003
 msgid "Footer banner"
 msgstr "Баннер в футере"
 
 #: ../inc/theme-options.php:2013
-#, fuzzy
 msgid "Footer banner HTML"
-msgstr "Нижний колонтитул баннера HTML"
+msgstr ""
 
 #: ../inc/theme-options.php:2014
-#, fuzzy
 msgid "Displayed in site footer."
-msgstr "Отображается в нижнем колонтитуле сайта."
+msgstr ""
 
 #: ../inc/theme-options.php:2023
-#, fuzzy
 msgid "Below popular posts banner"
-msgstr "Ниже баннера популярных постов"
+msgstr ""
 
 #: ../inc/theme-options.php:2033
-#, fuzzy
 msgid "Below popular posts banner HTML"
-msgstr "Ниже баннер популярных постов HTML"
+msgstr ""
 
 #: ../inc/theme-options.php:2034
-#, fuzzy
 msgid "Displayed on homepage below popular posts carousel."
-msgstr "Отображается на главной странице под каруселью популярных постов."
+msgstr ""
 
 #: ../inc/theme-options.php:2043
-#, fuzzy
 msgid "Posts list middle banner"
-msgstr "Средний баннер списка постов"
+msgstr ""
 
 #: ../inc/theme-options.php:2053
-#, fuzzy
 msgid "Posts list middle banner HTML"
-msgstr "Список постов средний баннер HTML"
+msgstr ""
 
 #: ../inc/theme-options.php:2054
-#, fuzzy
 msgid ""
 "Displayed at the middle between posts on all posts listing pages (Homepage, "
 "Archives, Search, etc). This banner does not available in Masonry and Two "
 "column blog layouts."
 msgstr ""
-"Отображается посередине между постами на всех страницах со списком постов "
-"(Домашняя страница, Архивы, Поиск и т.д.). Этот баннер недоступен в макетах "
-"блога Masonry и Two column."
 
 #: ../inc/theme-options.php:2063
-#, fuzzy
 msgid "Posts list bottom banner"
-msgstr "Нижний баннер списка постов"
+msgstr ""
 
 #: ../inc/theme-options.php:2073
-#, fuzzy
 msgid "Posts list bottom banner HTML"
-msgstr "Нижний баннер списка постов HTML"
+msgstr ""
 
 #: ../inc/theme-options.php:2074
-#, fuzzy
 msgid ""
 "Displayed at the bottom after all posts on posts listing pages (Homepage, "
 "Archives, Search, etc)."
 msgstr ""
-"Отображается внизу после всех постов на страницах со списком постов "
-"(Домашняя страница, Архивы, Поиск и т.д.)."
 
 #: ../inc/theme-options.php:2083
-#, fuzzy
 msgid "Single post top banner"
-msgstr "Баннер в одном посте"
+msgstr ""
 
 #: ../inc/theme-options.php:2093
-#, fuzzy
 msgid "Single post top banner HTML"
-msgstr "Верхний баннер для одного поста HTML"
+msgstr ""
 
 #: ../inc/theme-options.php:2094
-#, fuzzy
 msgid ""
 "Displayed on single blog post page between post content and featured image."
 msgstr ""
-"Отображается на странице одного сообщения блога между содержанием сообщения "
-"и основным изображением."
 
 #: ../inc/theme-options.php:2103
-#, fuzzy
 msgid "Single post bottom banner"
-msgstr "Нижний баннер для одного поста"
+msgstr ""
 
 #: ../inc/theme-options.php:2113
-#, fuzzy
 msgid "Single post bottom banner HTML"
-msgstr "Нижний баннер для одного поста HTML"
+msgstr ""
 
 #: ../inc/theme-options.php:2114
-#, fuzzy
 msgid "Displayed on single blog post page after post content."
 msgstr ""
-"Отображается на странице отдельного сообщения блога после содержания "
-"сообщения."
 
 #: ../inc/theme-options.php:2123
-#, fuzzy
 msgid "404 page banner"
-msgstr "Заголовок для страницы 404"
+msgstr ""
 
 #: ../inc/theme-options.php:2133
-#, fuzzy
 msgid "404 page banner HTML"
-msgstr "HTML баннер страницы 404"
+msgstr ""
 
 #: ../inc/theme-options.php:2134
 msgid "Displayed on 404 not found page."
@@ -3209,98 +2612,77 @@ msgid "Custom JavaScript code"
 msgstr "Произвольный код JavaScript"
 
 #: ../inc/theme-options.php:2174
-#, fuzzy
 msgid ""
 "This code will run in header, do not add &#x3C;script&#x3E;...&#x3C;/"
 "script&#x3E; tags here, this tags will be added automatically. You can use "
 "JQuery code here."
 msgstr ""
-"Этот код будет выполняться в заголовке, не добавляйте здесь теги <script>..."
-"</script>, эти теги будут добавлены автоматически. Вы можете использовать "
-"код JQuery здесь."
 
 #: ../inc/theme-sidebars.php:8
 msgid "Default Blog sidebar"
 msgstr "Сайдбар блога по умолчанию"
 
 #: ../inc/theme-sidebars.php:10
-#, fuzzy
 msgid ""
 "Widgets in this area will be shown in the left or right site column on: Main "
 "Blog page, Archives, Search."
 msgstr ""
-"Виджеты в этой области будут отображаться в левой или правой колонке сайта "
-"на: Главная страница блога, Архивы, Поиск."
 
 #: ../inc/theme-sidebars.php:16
 msgid "Single Blog Post sidebar"
 msgstr "Отдельная запись"
 
 #: ../inc/theme-sidebars.php:18
-#, fuzzy
 msgid ""
 "Widgets in this area will be shown in the left or right site column on: "
 "Single Blog Post."
 msgstr ""
-"Виджеты в этой области будут отображаться в левой или правой колонке сайта: "
-"Одиночная запись блога."
 
 #: ../inc/theme-sidebars.php:24
 msgid "Page sidebar"
 msgstr "Сайдбар страницы"
 
 #: ../inc/theme-sidebars.php:26
-#, fuzzy
 msgid ""
 "Widgets in this area will be shown in the left or right site column on: Page."
 msgstr ""
-"Виджеты в этой области будут отображаться в левой или правой колонке сайта "
-"на: Страница."
 
 #: ../inc/theme-sidebars.php:32
 msgid "WooCommerce sidebar"
 msgstr "Сайдбар WooCommerce"
 
 #: ../inc/theme-sidebars.php:34
-#, fuzzy
 msgid ""
 "Widgets in this area will be shown in the left or right site column for "
 "woocommerce pages."
 msgstr ""
-"Виджеты в этой области будут отображаться в левой или правой колонке сайта "
-"для страниц woocommerce."
 
 #: ../inc/theme-sidebars.php:40
 msgid "Footer sidebar"
 msgstr "Сайдбар в футере"
 
 #: ../inc/theme-sidebars.php:42
-#, fuzzy
 msgid "Widgets in this area will be shown in site footer in 3 columns."
-msgstr "Виджеты в этой области будут отображаться в футере сайта в 3 колонки."
+msgstr ""
 
 #: ../inc/theme-sidebars.php:48
 msgid "Footer Dark sidebar"
 msgstr "Темный сайдбар в футере"
 
 #: ../inc/theme-sidebars.php:50
-#, fuzzy
 msgid ""
 "Widgets in this area will be shown in site footer in 4 column after Footer "
 "sidebar #1."
-msgstr "Виджеты отображаются в футере сайта."
+msgstr ""
 
 #: ../inc/theme-sidebars.php:59
 msgid "Mega Menu sidebar #"
 msgstr "Сайдбар Мега-меню"
 
 #: ../inc/theme-sidebars.php:61
-#, fuzzy
 msgid ""
 "You can use this sidebar to display widgets inside megamenu items in menus."
 msgstr ""
-"Вы можете использовать эту боковую панель для отображения виджетов внутри "
-"пунктов мегаменю в меню."
 
 #: ../no-results.php:15
 msgid "Nothing found"
