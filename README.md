@@ -1,5 +1,7 @@
 # Русские файлы локализации для фронтенда темы Florian
 
+Подробнее о Florian: https://inwebpress.com/envato-07-2021/
+
 ## Инструкция
 
 1) В админке должен быть включен русский язык для сайта.
@@ -14,7 +16,6 @@ florian-ru_RU.mo
 на сайт, в папку: /wp-content/languages/themes/
 
 (не спутайте с этой папкой: /wp-content/themes/woodmart/languages/)
-
 
 ## FAQ
 
@@ -38,4 +39,4 @@ florian-ru_RU.mo
 Такие программы, как Total Commander отображают расширение файлов.
 
 ## Остались вопросы?
-https://github.com/Dizer7/florian-frontend-ru/discussions
+https://github.com/Dizer7/florian-frontend-ru/issues
