@@ -44,3 +44,5 @@ florian-ru_RU.mo
 
 ## Остались вопросы?
 https://github.com/Dizer7/florian-frontend-ru/issues
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://sitex.me/standwithukraine)
